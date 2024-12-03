@@ -13,5 +13,14 @@ short_description: 'Text Summarization '
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+[Step] [Building Application]
+[CI and ID using GitHub Action]
+
+
+
+
+Check out the host at hugging face uri : https://huggingface.co/spaces/kedartvd3/demo 
+
+
 
 
